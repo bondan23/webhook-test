@@ -6,3 +6,4 @@ tos
 tes
 doa
 umam
+digital
