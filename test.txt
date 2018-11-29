@@ -7,3 +7,4 @@ add
 tot
 gold
 ojo
+sigit
