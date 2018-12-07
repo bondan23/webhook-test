@@ -3,3 +3,4 @@ hmm
 s07
 hmm
 aneh
+goal
