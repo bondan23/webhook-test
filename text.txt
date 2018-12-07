@@ -11,3 +11,4 @@ cobain
 gold
 coba
 aneh
+tests
