@@ -37,3 +37,4 @@ val
 sad
 fail
 succ
+success
