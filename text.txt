@@ -12,3 +12,4 @@ gold
 coba
 aneh
 tests
+wow
