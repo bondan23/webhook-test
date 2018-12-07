@@ -36,3 +36,4 @@ grr
 val
 sad
 fail
+succ
