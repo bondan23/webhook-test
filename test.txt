@@ -45,3 +45,4 @@ wiw
 slow
 bisa dong
 hmm
+harusnya bisa
