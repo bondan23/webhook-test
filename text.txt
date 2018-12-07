@@ -18,3 +18,4 @@ sayur
 crozz
 cobadong
 apaansih
+lemot
