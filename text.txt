@@ -20,3 +20,4 @@ cobadong
 apaansih
 lemot
 hmm
+init
