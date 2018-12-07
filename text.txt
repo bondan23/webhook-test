@@ -8,3 +8,4 @@ testing
 hmmm
 coba
 cobain
+gold
