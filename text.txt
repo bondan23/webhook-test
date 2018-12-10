@@ -43,3 +43,4 @@ bmm
 foo
 coba
 lagi
+kok bisa
