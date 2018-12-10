@@ -44,3 +44,4 @@ foo
 coba
 lagi
 kok bisa
+now
