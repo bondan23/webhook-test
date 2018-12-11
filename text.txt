@@ -7,3 +7,4 @@ goal
 woww
 foo
 huhu
+if i die first
