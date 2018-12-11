@@ -9,7 +9,7 @@ blockingLabels:
 - dont-merge
 
 minApprovals:
-  COLLABORATOR: 2
+  COLLABORATOR: 1
 
 requiredLabels:
 - qa-approve
