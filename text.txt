@@ -10,3 +10,4 @@ huhu
 if i die first
 asd
 delete
+add cobalagi
