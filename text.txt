@@ -9,3 +9,4 @@ foo
 huhu
 if i die first
 asd
+delete
