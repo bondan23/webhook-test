@@ -7,7 +7,7 @@ arrOfRepo:
 # doing an automatic merge. For more information about associations see:
 # https://developer.github.com/v4/reference/enum/commentauthorassociation/
 minApprovals:
-  COLLABORATOR: 2
+  COLLABORATOR: 1
 
 # Whether the pull request branch is automatically deleted.
 # This is the equivalent of clicking the 'Delete branch' button shown on merged pull requests.
@@ -27,9 +27,9 @@ mergeMethod: squash
 # Blocking labels are the labels that can be attached to a pull request to make sure the pull request
 # is not being automatically merged.
 blockingLabels:
-- blocked
+- dont-merge
 
 # Whenever required labels are configured, pull requests will only be automatically merged whenever
 # all of these labels are attached to a pull request.
 requiredLabels:
-- merge
+- qa-approve
